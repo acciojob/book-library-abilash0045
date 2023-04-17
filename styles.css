@@ -18,6 +18,7 @@ body{
     background-color: #2ecc71;
     margin: 0 5px 0 5px;
     border-radius: 3px;
+	color:white;
 }
 .book{
     display: flex;
